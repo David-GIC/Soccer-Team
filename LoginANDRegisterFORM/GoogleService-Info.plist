@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>182217805197-q5edmpt9drglo3rp8155pe317bka0f90.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.182217805197-q5edmpt9drglo3rp8155pe317bka0f90</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD58_Sg1G5hEB3uccrCxyP9WxUPAubYGGM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>182217805197</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>David.LoginANDRegisterFORM</string>
+	<key>PROJECT_ID</key>
+	<string>premier-leguage</string>
+	<key>STORAGE_BUCKET</key>
+	<string>premier-leguage.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:182217805197:ios:a3799fca3766fd8d</string>
+	<key>DATABASE_URL</key>
+	<string>https://premier-leguage.firebaseio.com</string>
+</dict>
+</plist>
